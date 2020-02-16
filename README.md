@@ -12,7 +12,17 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 
 ## Demo
-![Demo](./assets/employee-tracker-demo.mov)
+![Demo](https://media.giphy.com/media/dZiOiiSLzCuM6jZIDg/giphy.gif)
+
+![Demo](https://media.giphy.com/media/QsmIJnK2cfkWe3vsKg/giphy.gif)
+
+![Demo](https://media.giphy.com/media/hpFXiAJu92cMHO1A9o/giphy.gif)
+
+![Demo](https://media.giphy.com/media/KBaBnqvoAmyguUSUWV/giphy.gif)
+
+![Demo](https://media.giphy.com/media/S7379dw0x0MeSMykel/giphy.gif)
+
+![Demo](https://media.giphy.com/media/d7OEyuPYpbNlLwwif8/giphy.gif)
 
 ## Authors
 
